@@ -1,0 +1,16 @@
+{
+  "name": "tstest",
+  "version": "1.0.0",
+  "description": "ts test example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/js-yaml": "^3.11.3",
+    "@types/node": "^10.12.18",
+    "js-yaml": "^3.12.0"
+  }
+}
